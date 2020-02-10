@@ -1,4 +1,4 @@
-# Excercise-1-LOI-JS
+# Excercise-1-LOI-JS JAN-2019
 
 https://www.loi.nl/n-3374-hbo-programmeren-in-javascript
 
